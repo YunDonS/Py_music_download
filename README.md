@@ -180,7 +180,7 @@ AudioSegment.ffprobe = which("ffprobe")
 
 ### 许可证
 
-此项目在MIT许可证下获得许可-有关详细信息，请参阅[License](./LCENSE)文件。
+此项目在MIT许可证下获得许可-有关详细信息，请参阅[License](./LICENSE)文件。
 ---
 
 该 `README.md` 文件为用户提供了详细的项目说明和运行指南。如果需要进一步的修改或添加内容，请告诉我！
